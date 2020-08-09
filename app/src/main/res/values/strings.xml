@@ -16,15 +16,12 @@
     <string name="cancel">Cancel</string>
     <string name="next">Next</string>
     <string name="notes">Notes</string>
-    <string name="courses">Courses</string>
-    <string name="share">Share</string>
     <string name="nav_notes">Notes</string>
     <string name="nav_courses">Courses</string>
     <string name="communicate">Communicate</string>
-    <string name="nav_share">Share</string>
-    <string name="nav_send">Send</string>
     <string name="android_launcher">android launcher</string>
     <string name="text_course">TextView</string>
-    <string name="text_course">TextView</string>
     <string name="text_title">TextView</string>
+    <string name="nav_share">Share</string>
+    <string name="nav_send">Send</string>
 </resources>

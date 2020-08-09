@@ -2,7 +2,6 @@
 
 android {
     compileSdkVersion 27
-    buildToolsVersion "30.0.0"
 
     defaultConfig {
         applicationId "com.moreino.notekeeper"
@@ -20,6 +19,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+    buildToolsVersion '30.0.1'
 }
 
 dependencies {
